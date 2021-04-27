@@ -1,0 +1,26 @@
+{
+  "name": "renata",
+  "version": "0.0.1",
+  "description": "renata",
+  "main": "renata.js",
+  "scripts": {
+    "start": "node renata.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ejs": "^3.1.6",
+    "discord.js": "^12.5.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
