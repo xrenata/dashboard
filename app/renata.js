@@ -24,4 +24,4 @@ res.render("canli", {client});
 
 app.listen(8080);
 
-client.login(process.env.TOKEN)
+client.login("token here")
